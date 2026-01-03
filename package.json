@@ -1,0 +1,23 @@
+{
+  "name": "roadmap-expense-tracker",
+  "version": "1.0.0",
+  "description": "[roadmap.sh expense tracker project](https://roadmap.sh/projects/expense-tracker)",
+  "homepage": "https://github.com/fkri06/roadmap-expense-tracker#readme",
+  "bugs": {
+    "url": "https://github.com/fkri06/roadmap-expense-tracker/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fkri06/roadmap-expense-tracker.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "expense-tracker": "./bin/index.js"
+  }
+}
